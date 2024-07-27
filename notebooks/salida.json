@@ -1,0 +1,1062 @@
+{
+  "n1vocab.csv": [
+    [
+      "相",
+      "あい",
+      "together, mutually, fellow"
+    ],
+    [
+      "集まる",
+      "あつまる",
+      "to gather, to collect, to assemble"
+    ],
+    [
+      "網",
+      "あみ",
+      "net, network"
+    ],
+    [
+      "或る",
+      "ある",
+      "a certain..., some..."
+    ],
+    [
+      null,
+      "いく",
+      "to come, to orgasm"
+    ],
+    [
+      "軍",
+      "いくさ",
+      "war, battle, campaign, fight"
+    ],
+    [
+      "入る",
+      "いる",
+      "to get in, to go in, to come in, to flow into, to set, to set in"
+    ],
+    [
+      "受け止める",
+      "うけとめる",
+      "to catch, to stop the blow, to react to, to take"
+    ],
+    [
+      "動き",
+      "うごき",
+      "movement, activity, trend, development, change"
+    ],
+    [
+      "尾",
+      "お",
+      "tail, ridge"
+    ],
+    [
+      "於",
+      "お",
+      "at, in, on"
+    ],
+    [
+      "海峡",
+      "かいきょう",
+      "channel"
+    ],
+    [
+      "会談",
+      "かいだん",
+      "conversation, conference, discussion, interview"
+    ],
+    [
+      "開発",
+      "かいはつ",
+      "development, exploitation"
+    ],
+    [
+      "核",
+      "かく",
+      "nucleus, kernel"
+    ],
+    [
+      "傾ける",
+      "かたむける",
+      "to incline, to list, to bend, to lean, to tip, to tilt, to slant, to concentrate on, to ruin (a country), to"
+    ],
+    [
+      "交わす",
+      "かわす",
+      "to exchange (messages), to dodge, to parry, to avoid, to turn aside"
+    ],
+    [
+      "関与",
+      "かんよ",
+      "participation, taking part in, participating in, being concerned in"
+    ],
+    [
+      "危機",
+      "きき",
+      "crisis"
+    ],
+    [
+      "強硬",
+      "きょうこう",
+      "firm, vigorous, unbending, unyielding, strong, stubborn"
+    ],
+    [
+      "距離",
+      "きょり",
+      "distance, range"
+    ],
+    [
+      "軍事",
+      "ぐんじ",
+      "military affairs"
+    ],
+    [
+      "限定",
+      "げんてい",
+      "limit, restriction"
+    ],
+    [
+      "溝",
+      "こう",
+      "10^38, hundred undecillion (American), hundred sextillion (British)"
+    ],
+    [
+      "校",
+      "こう",
+      "#NAME?"
+    ],
+    [
+      "交渉",
+      "こうしょう",
+      "negotiations, discussions, connection"
+    ],
+    [
+      "国防",
+      "こくぼう",
+      "national defence"
+    ],
+    [
+      "此の",
+      "この",
+      "this"
+    ],
+    [
+      "此れ",
+      "これ",
+      "this"
+    ],
+    [
+      "合意",
+      "ごうい",
+      "agreement, consent, mutual understanding"
+    ],
+    [
+      "仕掛ける",
+      "しかける",
+      "to commence, to lay (mines), to set (traps), to wage (war), to challenge"
+    ],
+    [
+      "指摘",
+      "してき",
+      "pointing out, identification"
+    ],
+    [
+      "情勢",
+      "じょうせい",
+      "state of things, condition, situation"
+    ],
+    [
+      "剃る",
+      "する",
+      "to shave"
+    ],
+    [
+      "勢力",
+      "せいりょく",
+      "influence, power, might, strength, potency, force, energy"
+    ],
+    [
+      "選挙",
+      "せんきょ",
+      "election"
+    ],
+    [
+      "戦力",
+      "せんりょく",
+      "war potential"
+    ],
+    [
+      "増強",
+      "ぞうきょう",
+      "augment, reinforce, increase"
+    ],
+    [
+      "他意",
+      "たい",
+      "ill will, malice, another intention, secret purpose, ulterior motive, fickleness, double-mindedness"
+    ],
+    [
+      "対応",
+      "たいおう",
+      "interaction, correspondence, coping with, dealing with"
+    ],
+    [
+      "対面",
+      "たいめん",
+      "interview, meeting"
+    ],
+    [
+      "対話",
+      "たいわ",
+      "interactive, interaction, conversation, dialogue"
+    ],
+    [
+      "高まる",
+      "たかまる",
+      "to rise, to swell, to be promoted"
+    ],
+    [
+      "丈",
+      "だけ",
+      "only, just, as"
+    ],
+    [
+      "秩序",
+      "ちつじょ",
+      "order, regularity, system, method"
+    ],
+    [
+      "吐く",
+      "つく",
+      "1. to breathe, 2. to tell (lies), 3. to vomit, to disgorge"
+    ],
+    [
+      "強まる",
+      "つよまる",
+      "to get strong, to gain strength"
+    ],
+    [
+      "強める",
+      "つよめる",
+      "to strengthen, to emphasize"
+    ],
+    [
+      "的",
+      "てき",
+      "#NAME?"
+    ],
+    [
+      null,
+      "と",
+      "1. if (conjunction), 2. promoted pawn (shogi) (abbr)"
+    ],
+    [
+      "動向",
+      "どうこう",
+      "trend, tendency, movement, attitude"
+    ],
+    [
+      "同盟",
+      "どうめい",
+      "alliance, union, league"
+    ],
+    [
+      "南",
+      "なん",
+      "south"
+    ],
+    [
+      "荷",
+      "に",
+      "load, baggage, cargo"
+    ],
+    [
+      "刃",
+      "は",
+      "edge (of a sword)"
+    ],
+    [
+      "派",
+      "は",
+      "clique, faction, school"
+    ],
+    [
+      "保障",
+      "ほしょう",
+      "guarantee, security, assurance, pledge, warranty"
+    ],
+    [
+      "防衛",
+      "ぼうえい",
+      "defense, protection, self-defense"
+    ],
+    [
+      "的",
+      "まと",
+      "mark, target"
+    ],
+    [
+      "設ける",
+      "もうける",
+      "to create, to establish"
+    ],
+    [
+      "矢",
+      "や",
+      "arrow"
+    ],
+    [
+      "哉",
+      "や",
+      "question mark"
+    ],
+    [
+      "要因",
+      "よういん",
+      "primary factor, main cause"
+    ]
+  ],
+  "n2vocab.csv": [
+    [
+      "在る",
+      "ある",
+      "to live,to be"
+    ],
+    [
+      "以降",
+      "いこう",
+      "on and after,hereafter,thereafter"
+    ],
+    [
+      "煎る",
+      "いる",
+      "to parch,to fry"
+    ],
+    [
+      "炒る",
+      "いる",
+      null
+    ],
+    [
+      "外部",
+      "がいぶ",
+      "the outside,external"
+    ],
+    [
+      "殻",
+      "から",
+      "shell,husk,hull,chaff"
+    ],
+    [
+      "請う",
+      "こう",
+      "to ask,to request"
+    ],
+    [
+      "交流",
+      "こうりゅう",
+      "alternating current,intercourse,(cultural) exchange,intermingling"
+    ],
+    [
+      "琴",
+      "こと",
+      "Koto (Japanese harp)"
+    ],
+    [
+      "姿勢",
+      "しせい",
+      "attitude,posture"
+    ],
+    [
+      "周辺",
+      "しゅうへん",
+      "circumference,outskirts,environs,(computer) peripheral"
+    ],
+    [
+      "酢",
+      "す",
+      "vinegar"
+    ],
+    [
+      "刷る",
+      "する",
+      "to print"
+    ],
+    [
+      "相互",
+      "そうご",
+      "mutual,reciprocal"
+    ],
+    [
+      "通ずる",
+      "つうずる",
+      null
+    ],
+    [
+      "点く",
+      "つく",
+      "to catch fire,(electricity) comes on"
+    ],
+    [
+      "突く",
+      "つく",
+      "(1) to thrust,to strike,(2) to poke"
+    ],
+    [
+      "次ぐ",
+      "つぐ",
+      "to rank next to,to come after"
+    ],
+    [
+      "繋げる",
+      "つなげる",
+      "to connect"
+    ],
+    [
+      "生る",
+      "なる",
+      "to bear fruit"
+    ],
+    [
+      "睨む",
+      "にらむ",
+      "to glare at,to scowl at,to keep an eye on"
+    ],
+    [
+      "半島",
+      "はんとう",
+      "peninsula"
+    ],
+    [
+      "本来",
+      "ほんらい",
+      "essentially,naturally,by nature"
+    ],
+    [
+      "巡る",
+      "めぐる",
+      "to go around"
+    ],
+    [
+      "有料",
+      "ゆうりょう",
+      "admission-paid,toll"
+    ],
+    [
+      "因る",
+      "よる",
+      "to come from"
+    ]
+  ],
+  "n3vocab.csv": [
+    [
+      "新た",
+      "あらた",
+      "new,fresh,novel"
+    ],
+    [
+      "有る",
+      "ある",
+      "to be,to have"
+    ],
+    [
+      "或",
+      "ある",
+      "a certain...,some..."
+    ],
+    [
+      "合わせる",
+      "あわせる",
+      "to join together,to be opposite,to face,to unite"
+    ],
+    [
+      "安定",
+      "あんてい",
+      "stability,equilibrium"
+    ],
+    [
+      "言う",
+      "ゆう",
+      "to say"
+    ],
+    [
+      "動かす",
+      "うごかす",
+      "to move,to shift"
+    ],
+    [
+      "演説",
+      "えんぜつ",
+      "speech,address"
+    ],
+    [
+      "御",
+      "お",
+      "honourable"
+    ],
+    [
+      "会員",
+      "かいいん",
+      "member,the membership"
+    ],
+    [
+      "外交",
+      "がいこう",
+      "diplomacy"
+    ],
+    [
+      "改善",
+      "かいぜん",
+      "betterment,improvement"
+    ],
+    [
+      "空",
+      "から",
+      "sky"
+    ],
+    [
+      "環境",
+      "かんきょう",
+      "environment,circumstance"
+    ],
+    [
+      "歓迎",
+      "かんげい",
+      "welcome,reception"
+    ],
+    [
+      "記事",
+      "きじ",
+      "article,news story,report,account"
+    ],
+    [
+      "急速",
+      "きゅうそく",
+      "rapid (e.g. progress)"
+    ],
+    [
+      "緊張",
+      "きんちょう",
+      "tension,mental strain,nervousness"
+    ],
+    [
+      "軍",
+      "ぐん",
+      "army,force,troops"
+    ],
+    [
+      "事",
+      "こと",
+      "thing,matter,fact,circumstances"
+    ],
+    [
+      "この",
+      "この",
+      "this"
+    ],
+    [
+      "作業",
+      "さぎょう",
+      "work,operation,manufacturing,fatigue duty"
+    ],
+    [
+      "避ける",
+      "さける",
+      "(1) to avoid (physical contact ),(2) to ward off,to avert"
+    ],
+    [
+      "事実",
+      "じじつ",
+      "fact,truth,reality"
+    ],
+    [
+      "事態",
+      "じたい",
+      "situation,present state of affairs"
+    ],
+    [
+      "実現",
+      "じつげん",
+      "implementation,materialization,realization"
+    ],
+    [
+      "状況",
+      "じょうきょう",
+      "state of affairs,situation,circumstances"
+    ],
+    [
+      "信頼",
+      "しんらい",
+      "reliance,trust,confidence"
+    ],
+    [
+      "巣",
+      "す",
+      "nest,rookery,breeding place,beehive,cobweb"
+    ],
+    [
+      "図",
+      "ず",
+      "figure (e.g. Fig 1),drawing,picture,illustration"
+    ],
+    [
+      "為る",
+      "する",
+      "to change,to be of use,to reach to"
+    ],
+    [
+      "責任",
+      "せきにん",
+      "duty,responsibility"
+    ],
+    [
+      "前進",
+      "ぜんしん",
+      "advance,drive,progress"
+    ],
+    [
+      "田",
+      "た",
+      "rice field"
+    ],
+    [
+      "他",
+      "た",
+      "other (esp. places and things)"
+    ],
+    [
+      "対",
+      "たい",
+      "pair,couple,set"
+    ],
+    [
+      "大統領",
+      "だいとうりょう",
+      "president,chief executive"
+    ],
+    [
+      "担当",
+      "たんとう",
+      "(in) charge"
+    ],
+    [
+      "地域",
+      "ちいき",
+      "area,region"
+    ],
+    [
+      "中",
+      "ちゅう",
+      "inside,middle,among"
+    ],
+    [
+      "月",
+      "つき",
+      "moon,month"
+    ],
+    [
+      "就く",
+      "つく",
+      "to settle in (place),to take (seat, position),to study (under teacher)"
+    ],
+    [
+      null,
+      "で",
+      "outflow,coming (going) out,graduate (of)"
+    ],
+    [
+      "時",
+      "とき",
+      "(1) time,hour,(2) occasion,moment"
+    ],
+    [
+      "努力",
+      "どりょく",
+      "great effort,exertion,endeavour,effort"
+    ],
+    [
+      "等",
+      "など",
+      "et cetera,etc.,and the like"
+    ],
+    [
+      "為る",
+      "なる",
+      "to change,to be of use,to reach to"
+    ],
+    [
+      "成る",
+      "なる",
+      "to become"
+    ],
+    [
+      "日本",
+      "にっぽん",
+      "Japan"
+    ],
+    [
+      "日本",
+      "にほん",
+      "Japan"
+    ],
+    [
+      "野",
+      "の",
+      "field"
+    ],
+    [
+      "望む",
+      "のぞむ",
+      "to desire,to wish for,to see,to command (a view of)"
+    ],
+    [
+      "場",
+      "ば",
+      "place,field (physics)"
+    ],
+    [
+      "激しい",
+      "はげしい",
+      "violent,vehement,intense"
+    ],
+    [
+      "話し合う",
+      "はなしあう",
+      "to discuss,to talk together"
+    ],
+    [
+      "批判",
+      "ひはん",
+      "criticism,judgement,comment"
+    ],
+    [
+      "含む",
+      "ふくむ",
+      "to hold in the mouth,to bear in mind"
+    ],
+    [
+      "防ぐ",
+      "ふせぐ",
+      "to defend (against),to protect,to prevent"
+    ],
+    [
+      "再び",
+      "ふたたび",
+      "again,once more,a second time"
+    ],
+    [
+      "増す",
+      "ます",
+      "to increase,to grow"
+    ],
+    [
+      "向ける",
+      "むける",
+      "to turn towards,to point"
+    ],
+    [
+      "目標",
+      "もくひょう",
+      "mark,objective,target"
+    ],
+    [
+      "最も",
+      "もっとも",
+      "most,extremely"
+    ],
+    [
+      "尤も",
+      "もっとも",
+      "quite right,plausible,natural,but then,although"
+    ],
+    [
+      "求める",
+      "もとめる",
+      "to seek,to request,to demand,to want,to wish for,to search for,to pursue (pleasure),to hunt (a job),"
+    ],
+    [
+      "者",
+      "もの",
+      "person"
+    ],
+    [
+      "冷静",
+      "れいせい",
+      "calm,composure,coolness,serenity"
+    ]
+  ],
+  "n4vocab.csv": [
+    [
+      null,
+      "アジア",
+      "Asia"
+    ],
+    [
+      "安全",
+      "あんぜん",
+      "safety"
+    ],
+    [
+      "意見",
+      "いけん",
+      "opinion"
+    ],
+    [
+      "会議",
+      "かいぎ",
+      "meeting"
+    ],
+    [
+      "関係",
+      "かんけい",
+      "relationship"
+    ],
+    [
+      null,
+      "こう",
+      "this way"
+    ],
+    [
+      null,
+      "こと",
+      "thing,matter"
+    ],
+    [
+      "米",
+      "こめ",
+      "uncooked rice"
+    ],
+    [
+      "進む",
+      "すすむ",
+      "to make progress"
+    ],
+    [
+      "政治",
+      "せいじ",
+      "politics,government"
+    ],
+    [
+      "世界",
+      "せかい",
+      "the world"
+    ],
+    [
+      "付く",
+      "つく",
+      "to be attached"
+    ],
+    [
+      "伝える",
+      "つたえる",
+      "to report"
+    ],
+    [
+      "都",
+      "と",
+      "metropolitan"
+    ],
+    [
+      "特に",
+      "とくに",
+      "particularly,especially"
+    ],
+    [
+      "鳴る",
+      "なる",
+      "to sound"
+    ],
+    [
+      "葉",
+      "は",
+      "leaf"
+    ],
+    [
+      "必要",
+      "ひつよう",
+      "necessary"
+    ],
+    [
+      "開く",
+      "ひらく",
+      "to open an event"
+    ],
+    [
+      null,
+      "もっとも",
+      "extremely"
+    ],
+    [
+      "寄る",
+      "よる",
+      "to visit"
+    ],
+    [
+      "連絡",
+      "れんらく",
+      "contact"
+    ]
+  ],
+  "n5vocab.csv": [
+    [
+      "開く",
+      "あく",
+      "to open, to become open"
+    ],
+    [
+      null,
+      "ある",
+      "to be,to have (used for inullimate objects)"
+    ],
+    [
+      "言う",
+      "いう",
+      "to say"
+    ],
+    [
+      "行く",
+      "いく",
+      "to go"
+    ],
+    [
+      "居る",
+      "いる",
+      "to be, to have (used for people and animals)"
+    ],
+    [
+      "要る",
+      "いる",
+      "to need"
+    ],
+    [
+      "海",
+      "うみ",
+      "sea"
+    ],
+    [
+      "置く",
+      "おく",
+      "to put"
+    ],
+    [
+      "重い",
+      "おもい",
+      "Heavy"
+    ],
+    [
+      "声",
+      "こえ",
+      "Voice"
+    ],
+    [
+      null,
+      "この",
+      "This"
+    ],
+    [
+      null,
+      "これ",
+      "This"
+    ],
+    [
+      null,
+      "する",
+      "to do"
+    ],
+    [
+      "空",
+      "そら",
+      "Sky"
+    ],
+    [
+      "着く",
+      "つく",
+      "to arrive at"
+    ],
+    [
+      "手",
+      "て",
+      "hand"
+    ],
+    [
+      "戸",
+      "と",
+      "Japanese style door"
+    ],
+    [
+      "年",
+      "とし",
+      "year"
+    ],
+    [
+      "中",
+      "なか",
+      "middle"
+    ],
+    [
+      null,
+      "など",
+      "et cetera"
+    ],
+    [
+      null,
+      "なる",
+      "to become"
+    ],
+    [
+      "二",
+      "に",
+      "two"
+    ],
+    [
+      "歯",
+      "は",
+      "tooth"
+    ],
+    [
+      "半",
+      "はん",
+      "half"
+    ],
+    [
+      "欲しい",
+      "ほしい",
+      "want"
+    ],
+    [
+      "南",
+      "みなみ",
+      "south"
+    ],
+    [
+      "耳",
+      "みみ",
+      "ear"
+    ],
+    [
+      "持つ",
+      "もつ",
+      "to hold"
+    ],
+    [
+      "物",
+      "もの",
+      "thing"
+    ],
+    [
+      "問題",
+      "もんだい",
+      "problem"
+    ],
+    [
+      "読む",
+      "よむ",
+      "to read"
+    ],
+    [
+      "夜",
+      "よる",
+      "evening,night"
+    ]
+  ]
+}

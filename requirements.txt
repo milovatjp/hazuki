@@ -1,0 +1,6 @@
+ginza
+ja_ginza_electra
+nltk
+pandas
+spacy
+SudachiPy

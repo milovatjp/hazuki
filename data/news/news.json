@@ -1,0 +1,1772 @@
+[
+    {
+        "text": "が",
+        "norm": "が",
+        "pos": "ADP",
+        "lemma": "が"
+    },
+    {
+        "text": "外交",
+        "norm": "外交",
+        "pos": "NOUN",
+        "lemma": "外交"
+    },
+    {
+        "text": "ぶり",
+        "norm": "振り",
+        "pos": "NOUN",
+        "lemma": "ぶり"
+    },
+    {
+        "text": "インドネシア",
+        "norm": "インドネシア",
+        "pos": "PROPN",
+        "lemma": "インドネシア"
+    },
+    {
+        "text": "シンガポール",
+        "norm": "シンガポール",
+        "pos": "PROPN",
+        "lemma": "シンガポール"
+    },
+    {
+        "text": "朝鮮",
+        "norm": "朝鮮",
+        "pos": "PROPN",
+        "lemma": "朝鮮"
+    },
+    {
+        "text": "不測",
+        "norm": "不測",
+        "pos": "NOUN",
+        "lemma": "不測"
+    },
+    {
+        "text": "昨年",
+        "norm": "昨年",
+        "pos": "NOUN",
+        "lemma": "昨年"
+    },
+    {
+        "text": "時",
+        "norm": "時",
+        "pos": "NOUN",
+        "lemma": "時"
+    },
+    {
+        "text": "懸念",
+        "norm": "懸念",
+        "pos": "VERB",
+        "lemma": "懸念"
+    },
+    {
+        "text": "保障",
+        "norm": "保障",
+        "pos": "NOUN",
+        "lemma": "保障"
+    },
+    {
+        "text": "環境",
+        "norm": "環境",
+        "pos": "NOUN",
+        "lemma": "環境"
+    },
+    {
+        "text": "部会",
+        "norm": "部会",
+        "pos": "NOUN",
+        "lemma": "部会"
+    },
+    {
+        "text": "は",
+        "norm": "は",
+        "pos": "ADP",
+        "lemma": "は"
+    },
+    {
+        "text": "対話",
+        "norm": "対話",
+        "pos": "NOUN",
+        "lemma": "対話"
+    },
+    {
+        "text": "いく",
+        "norm": "行く",
+        "pos": "VERB",
+        "lemma": "いく"
+    },
+    {
+        "text": "南",
+        "norm": "南",
+        "pos": "NOUN",
+        "lemma": "南"
+    },
+    {
+        "text": "作業",
+        "norm": "作業",
+        "pos": "NOUN",
+        "lemma": "作業"
+    },
+    {
+        "text": "米国",
+        "norm": "米国",
+        "pos": "PROPN",
+        "lemma": "米国"
+    },
+    {
+        "text": "持つ",
+        "norm": "持つ",
+        "pos": "VERB",
+        "lemma": "持つ"
+    },
+    {
+        "text": "。",
+        "norm": "。",
+        "pos": "PUNCT",
+        "lemma": "。"
+    },
+    {
+        "text": "本来",
+        "norm": "本来",
+        "pos": "ADV",
+        "lemma": "本来"
+    },
+    {
+        "text": "急速",
+        "norm": "急速",
+        "pos": "ADJ",
+        "lemma": "急速"
+    },
+    {
+        "text": "再び",
+        "norm": "再び",
+        "pos": "ADV",
+        "lemma": "再び"
+    },
+    {
+        "text": "なっ",
+        "norm": "成る",
+        "pos": "VERB",
+        "lemma": "なる"
+    },
+    {
+        "text": "サウス",
+        "norm": "サウス",
+        "pos": "NOUN",
+        "lemma": "サウス"
+    },
+    {
+        "text": "交流",
+        "norm": "交流",
+        "pos": "NOUN",
+        "lemma": "交流"
+    },
+    {
+        "text": "競い合う",
+        "norm": "競い合う",
+        "pos": "VERB",
+        "lemma": "競い合う"
+    },
+    {
+        "text": "で",
+        "norm": "で",
+        "pos": "SCONJ",
+        "lemma": "で"
+    },
+    {
+        "text": "以降",
+        "norm": "以降",
+        "pos": "ADV",
+        "lemma": "以降"
+    },
+    {
+        "text": "緊張",
+        "norm": "緊張",
+        "pos": "NOUN",
+        "lemma": "緊張"
+    },
+    {
+        "text": "高まる",
+        "norm": "高まる",
+        "pos": "VERB",
+        "lemma": "高まる"
+    },
+    {
+        "text": "られる",
+        "norm": "られる",
+        "pos": "AUX",
+        "lemma": "られる"
+    },
+    {
+        "text": "専門家",
+        "norm": "専門家",
+        "pos": "NOUN",
+        "lemma": "専門家"
+    },
+    {
+        "text": "重い",
+        "norm": "重い",
+        "pos": "ADJ",
+        "lemma": "重い"
+    },
+    {
+        "text": "伝え",
+        "norm": "伝える",
+        "pos": "VERB",
+        "lemma": "伝える"
+    },
+    {
+        "text": "拠点",
+        "norm": "拠点",
+        "pos": "NOUN",
+        "lemma": "拠点"
+    },
+    {
+        "text": "なく",
+        "norm": "無い",
+        "pos": "AUX",
+        "lemma": "ない"
+    },
+    {
+        "text": "対中",
+        "norm": "対中",
+        "pos": "NOUN",
+        "lemma": "対中"
+    },
+    {
+        "text": "半島",
+        "norm": "半島",
+        "pos": "NOUN",
+        "lemma": "半島"
+    },
+    {
+        "text": "だ",
+        "norm": "だ",
+        "pos": "AUX",
+        "lemma": "だ"
+    },
+    {
+        "text": "つい",
+        "norm": "つく",
+        "pos": "VERB",
+        "lemma": "つく"
+    },
+    {
+        "text": "冷静",
+        "norm": "冷静",
+        "pos": "ADJ",
+        "lemma": "冷静"
+    },
+    {
+        "text": "ミサイル",
+        "norm": "ミサイル",
+        "pos": "NOUN",
+        "lemma": "ミサイル"
+    },
+    {
+        "text": "事態",
+        "norm": "事態",
+        "pos": "NOUN",
+        "lemma": "事態"
+    },
+    {
+        "text": "緊張",
+        "norm": "緊張",
+        "pos": "VERB",
+        "lemma": "緊張"
+    },
+    {
+        "text": "この",
+        "norm": "此の",
+        "pos": "DET",
+        "lemma": "この"
+    },
+    {
+        "text": "・",
+        "norm": "・",
+        "pos": "SYM",
+        "lemma": "・"
+    },
+    {
+        "text": "られ",
+        "norm": "られる",
+        "pos": "AUX",
+        "lemma": "られる"
+    },
+    {
+        "text": "に",
+        "norm": "だ",
+        "pos": "AUX",
+        "lemma": "だ"
+    },
+    {
+        "text": "周辺",
+        "norm": "周辺",
+        "pos": "NOUN",
+        "lemma": "周辺"
+    },
+    {
+        "text": "だけ",
+        "norm": "だけ",
+        "pos": "ADP",
+        "lemma": "だけ"
+    },
+    {
+        "text": "海",
+        "norm": "海",
+        "pos": "NOUN",
+        "lemma": "海"
+    },
+    {
+        "text": "ない",
+        "norm": "無い",
+        "pos": "ADJ",
+        "lemma": "ない"
+    },
+    {
+        "text": "一歩",
+        "norm": "一歩",
+        "pos": "NOUN",
+        "lemma": "一歩"
+    },
+    {
+        "text": "傾ける",
+        "norm": "傾ける",
+        "pos": "VERB",
+        "lemma": "傾ける"
+    },
+    {
+        "text": "有料",
+        "norm": "有料",
+        "pos": "NOUN",
+        "lemma": "有料"
+    },
+    {
+        "text": "受け止め",
+        "norm": "受け止める",
+        "pos": "VERB",
+        "lemma": "受け止める"
+    },
+    {
+        "text": "増強",
+        "norm": "増強",
+        "pos": "NOUN",
+        "lemma": "増強"
+    },
+    {
+        "text": "で",
+        "norm": "だ",
+        "pos": "AUX",
+        "lemma": "だ"
+    },
+    {
+        "text": "再発防止策",
+        "norm": "再発防止策",
+        "pos": "NOUN",
+        "lemma": "再発防止策"
+    },
+    {
+        "text": "構築",
+        "norm": "構築",
+        "pos": "NOUN",
+        "lemma": "構築"
+    },
+    {
+        "text": "話し合う",
+        "norm": "話し合う",
+        "pos": "VERB",
+        "lemma": "話し合う"
+    },
+    {
+        "text": "動向",
+        "norm": "動向",
+        "pos": "NOUN",
+        "lemma": "動向"
+    },
+    {
+        "text": "ば",
+        "norm": "ば",
+        "pos": "SCONJ",
+        "lemma": "ば"
+    },
+    {
+        "text": "動き",
+        "norm": "動き",
+        "pos": "NOUN",
+        "lemma": "動き"
+    },
+    {
+        "text": "会員",
+        "norm": "会員",
+        "pos": "NOUN",
+        "lemma": "会員"
+    },
+    {
+        "text": "めぐっ",
+        "norm": "巡る",
+        "pos": "VERB",
+        "lemma": "めぐる"
+    },
+    {
+        "text": "ます",
+        "norm": "ます",
+        "pos": "AUX",
+        "lemma": "ます"
+    },
+    {
+        "text": "特に",
+        "norm": "特に",
+        "pos": "ADV",
+        "lemma": "特に"
+    },
+    {
+        "text": "海峡",
+        "norm": "海峡",
+        "pos": "NOUN",
+        "lemma": "海峡"
+    },
+    {
+        "text": "米中",
+        "norm": "米中",
+        "pos": "NOUN",
+        "lemma": "米中"
+    },
+    {
+        "text": "事実",
+        "norm": "事実",
+        "pos": "NOUN",
+        "lemma": "事実"
+    },
+    {
+        "text": "や",
+        "norm": "や",
+        "pos": "ADP",
+        "lemma": "や"
+    },
+    {
+        "text": "向け",
+        "norm": "向ける",
+        "pos": "VERB",
+        "lemma": "向ける"
+    },
+    {
+        "text": "協働",
+        "norm": "協働",
+        "pos": "VERB",
+        "lemma": "協働"
+    },
+    {
+        "text": "指摘",
+        "norm": "指摘",
+        "pos": "VERB",
+        "lemma": "指摘"
+    },
+    {
+        "text": "お",
+        "norm": "御",
+        "pos": "NOUN",
+        "lemma": "お"
+    },
+    {
+        "text": "進ん",
+        "norm": "進む",
+        "pos": "VERB",
+        "lemma": "進む"
+    },
+    {
+        "text": "出席者",
+        "norm": "出席者",
+        "pos": "NOUN",
+        "lemma": "出席者"
+    },
+    {
+        "text": "最低限",
+        "norm": "最低限",
+        "pos": "NOUN",
+        "lemma": "最低限"
+    },
+    {
+        "text": "な",
+        "norm": "だ",
+        "pos": "AUX",
+        "lemma": "だ"
+    },
+    {
+        "text": "同盟",
+        "norm": "同盟",
+        "pos": "NOUN",
+        "lemma": "同盟"
+    },
+    {
+        "text": "董",
+        "norm": "董",
+        "pos": "PROPN",
+        "lemma": "董"
+    },
+    {
+        "text": "言行",
+        "norm": "言行",
+        "pos": "NOUN",
+        "lemma": "言行"
+    },
+    {
+        "text": "べき",
+        "norm": "べし",
+        "pos": "AUX",
+        "lemma": "べし"
+    },
+    {
+        "text": "途上国",
+        "norm": "途上国",
+        "pos": "NOUN",
+        "lemma": "途上国"
+    },
+    {
+        "text": "耳",
+        "norm": "耳",
+        "pos": "NOUN",
+        "lemma": "耳"
+    },
+    {
+        "text": "競う",
+        "norm": "競う",
+        "pos": "VERB",
+        "lemma": "競う"
+    },
+    {
+        "text": "連絡",
+        "norm": "連絡",
+        "pos": "NOUN",
+        "lemma": "連絡"
+    },
+    {
+        "text": "フィリピン",
+        "norm": "フィリピン",
+        "pos": "PROPN",
+        "lemma": "フィリピン"
+    },
+    {
+        "text": "努力",
+        "norm": "努力",
+        "pos": "NOUN",
+        "lemma": "努力"
+    },
+    {
+        "text": "から",
+        "norm": "から",
+        "pos": "ADP",
+        "lemma": "から"
+    },
+    {
+        "text": "せ",
+        "norm": "せる",
+        "pos": "AUX",
+        "lemma": "せる"
+    },
+    {
+        "text": "たかっ",
+        "norm": "たい",
+        "pos": "AUX",
+        "lemma": "たい"
+    },
+    {
+        "text": "シナ",
+        "norm": "支那",
+        "pos": "PROPN",
+        "lemma": "シナ"
+    },
+    {
+        "text": "だろう",
+        "norm": "だ",
+        "pos": "AUX",
+        "lemma": "だ"
+    },
+    {
+        "text": "し",
+        "norm": "為る",
+        "pos": "VERB",
+        "lemma": "する"
+    },
+    {
+        "text": "避け",
+        "norm": "避ける",
+        "pos": "VERB",
+        "lemma": "避ける"
+    },
+    {
+        "text": "安保",
+        "norm": "安保",
+        "pos": "NOUN",
+        "lemma": "安保"
+    },
+    {
+        "text": "交渉",
+        "norm": "交渉",
+        "pos": "NOUN",
+        "lemma": "交渉"
+    },
+    {
+        "text": "プラボウォ",
+        "norm": "プラボウォ",
+        "pos": "PROPN",
+        "lemma": "プラボウォ"
+    },
+    {
+        "text": "１",
+        "norm": "1",
+        "pos": "NUM",
+        "lemma": "1"
+    },
+    {
+        "text": "の",
+        "norm": "の",
+        "pos": "ADP",
+        "lemma": "の"
+    },
+    {
+        "text": "」",
+        "norm": "」",
+        "pos": "PUNCT",
+        "lemma": "」"
+    },
+    {
+        "text": "安定",
+        "norm": "安定",
+        "pos": "VERB",
+        "lemma": "安定"
+    },
+    {
+        "text": "世界",
+        "norm": "世界",
+        "pos": "NOUN",
+        "lemma": "世界"
+    },
+    {
+        "text": "さ",
+        "norm": "為る",
+        "pos": "AUX",
+        "lemma": "する"
+    },
+    {
+        "text": "から",
+        "norm": "から",
+        "pos": "SCONJ",
+        "lemma": "から"
+    },
+    {
+        "text": "こそ",
+        "norm": "こそ",
+        "pos": "ADP",
+        "lemma": "こそ"
+    },
+    {
+        "text": "必要",
+        "norm": "必要",
+        "pos": "ADJ",
+        "lemma": "必要"
+    },
+    {
+        "text": "もっとも",
+        "norm": "尤も",
+        "pos": "CCONJ",
+        "lemma": "もっとも"
+    },
+    {
+        "text": "両",
+        "norm": "両",
+        "pos": "NOUN",
+        "lemma": "両"
+    },
+    {
+        "text": "脅威",
+        "norm": "脅威",
+        "pos": "NOUN",
+        "lemma": "脅威"
+    },
+    {
+        "text": "強硬",
+        "norm": "強硬",
+        "pos": "ADJ",
+        "lemma": "強硬"
+    },
+    {
+        "text": "太平洋",
+        "norm": "太平洋",
+        "pos": "PROPN",
+        "lemma": "太平洋"
+    },
+    {
+        "text": "これ",
+        "norm": "此れ",
+        "pos": "PRON",
+        "lemma": "これ"
+    },
+    {
+        "text": "新興国",
+        "norm": "新興国",
+        "pos": "NOUN",
+        "lemma": "新興国"
+    },
+    {
+        "text": "なる",
+        "norm": "成る",
+        "pos": "VERB",
+        "lemma": "なる"
+    },
+    {
+        "text": "、",
+        "norm": "、",
+        "pos": "PUNCT",
+        "lemma": "、"
+    },
+    {
+        "text": "中国",
+        "norm": "中国",
+        "pos": "PROPN",
+        "lemma": "中国"
+    },
+    {
+        "text": "双方",
+        "norm": "双方",
+        "pos": "NOUN",
+        "lemma": "双方"
+    },
+    {
+        "text": "軍",
+        "norm": "軍",
+        "pos": "NOUN",
+        "lemma": "軍"
+    },
+    {
+        "text": "防衛",
+        "norm": "防衛",
+        "pos": "NOUN",
+        "lemma": "防衛"
+    },
+    {
+        "text": "信頼",
+        "norm": "信頼",
+        "pos": "NOUN",
+        "lemma": "信頼"
+    },
+    {
+        "text": "と",
+        "norm": "と",
+        "pos": "ADP",
+        "lemma": "と"
+    },
+    {
+        "text": "す",
+        "norm": "為る",
+        "pos": "VERB",
+        "lemma": "す"
+    },
+    {
+        "text": "戦力",
+        "norm": "戦力",
+        "pos": "NOUN",
+        "lemma": "戦力"
+    },
+    {
+        "text": "設ける",
+        "norm": "設ける",
+        "pos": "VERB",
+        "lemma": "設ける"
+    },
+    {
+        "text": "ず",
+        "norm": "ず",
+        "pos": "AUX",
+        "lemma": "ず"
+    },
+    {
+        "text": "外部",
+        "norm": "外部",
+        "pos": "NOUN",
+        "lemma": "外部"
+    },
+    {
+        "text": "支援",
+        "norm": "支援",
+        "pos": "NOUN",
+        "lemma": "支援"
+    },
+    {
+        "text": "関係",
+        "norm": "関係",
+        "pos": "NOUN",
+        "lemma": "関係"
+    },
+    {
+        "text": "など",
+        "norm": "など",
+        "pos": "ADP",
+        "lemma": "など"
+    },
+    {
+        "text": "レーダー",
+        "norm": "レーダー",
+        "pos": "NOUN",
+        "lemma": "レーダー"
+    },
+    {
+        "text": "有料会員",
+        "norm": "有料会員",
+        "pos": "NOUN",
+        "lemma": "有料会員"
+    },
+    {
+        "text": "集まっ",
+        "norm": "集まる",
+        "pos": "VERB",
+        "lemma": "集まる"
+    },
+    {
+        "text": "強め",
+        "norm": "強める",
+        "pos": "VERB",
+        "lemma": "強める"
+    },
+    {
+        "text": "友好国",
+        "norm": "友好国",
+        "pos": "NOUN",
+        "lemma": "友好国"
+    },
+    {
+        "text": "置い",
+        "norm": "置く",
+        "pos": "VERB",
+        "lemma": "置く"
+    },
+    {
+        "text": "批判",
+        "norm": "批判",
+        "pos": "VERB",
+        "lemma": "批判"
+    },
+    {
+        "text": "なら",
+        "norm": "成る",
+        "pos": "VERB",
+        "lemma": "なる"
+    },
+    {
+        "text": "れる",
+        "norm": "れる",
+        "pos": "AUX",
+        "lemma": "れる"
+    },
+    {
+        "text": "いただけ",
+        "norm": "頂く",
+        "pos": "VERB",
+        "lemma": "いただける"
+    },
+    {
+        "text": "せ",
+        "norm": "為る",
+        "pos": "AUX",
+        "lemma": "する"
+    },
+    {
+        "text": "こう",
+        "norm": "こう",
+        "pos": "ADV",
+        "lemma": "こう"
+    },
+    {
+        "text": "仕掛け",
+        "norm": "仕掛ける",
+        "pos": "VERB",
+        "lemma": "仕掛ける"
+    },
+    {
+        "text": "求め",
+        "norm": "求める",
+        "pos": "VERB",
+        "lemma": "求める"
+    },
+    {
+        "text": "醸成",
+        "norm": "醸成",
+        "pos": "NOUN",
+        "lemma": "醸成"
+    },
+    {
+        "text": "名指し",
+        "norm": "名指し",
+        "pos": "NOUN",
+        "lemma": "名指し"
+    },
+    {
+        "text": "秩序",
+        "norm": "秩序",
+        "pos": "NOUN",
+        "lemma": "秩序"
+    },
+    {
+        "text": "地政学",
+        "norm": "地政学",
+        "pos": "NOUN",
+        "lemma": "地政学"
+    },
+    {
+        "text": "高まり",
+        "norm": "高まり",
+        "pos": "NOUN",
+        "lemma": "高まり"
+    },
+    {
+        "text": "真摯（しんし）",
+        "norm": "真摯",
+        "pos": "NOUN",
+        "lemma": "真摯"
+    },
+    {
+        "text": "欠かせ",
+        "norm": "欠かす",
+        "pos": "VERB",
+        "lemma": "欠かせる"
+    },
+    {
+        "text": "がたい",
+        "norm": "難い",
+        "pos": "AUX",
+        "lemma": "がたい"
+    },
+    {
+        "text": "核",
+        "norm": "核",
+        "pos": "NOUN",
+        "lemma": "核"
+    },
+    {
+        "text": "なら",
+        "norm": "なり",
+        "pos": "AUX",
+        "lemma": "なり"
+    },
+    {
+        "text": "ほしい",
+        "norm": "欲しい",
+        "pos": "AUX",
+        "lemma": "ほしい"
+    },
+    {
+        "text": "れ",
+        "norm": "れる",
+        "pos": "AUX",
+        "lemma": "れる"
+    },
+    {
+        "text": "地域",
+        "norm": "地域",
+        "pos": "NOUN",
+        "lemma": "地域"
+    },
+    {
+        "text": "無責任",
+        "norm": "無責任",
+        "pos": "ADJ",
+        "lemma": "無責任"
+    },
+    {
+        "text": "言う",
+        "norm": "言う",
+        "pos": "VERB",
+        "lemma": "言う"
+    },
+    {
+        "text": "中長期的",
+        "norm": "中長期的",
+        "pos": "ADJ",
+        "lemma": "中長期的"
+    },
+    {
+        "text": "国防",
+        "norm": "国防",
+        "pos": "NOUN",
+        "lemma": "国防"
+    },
+    {
+        "text": "姿勢",
+        "norm": "姿勢",
+        "pos": "NOUN",
+        "lemma": "姿勢"
+    },
+    {
+        "text": "めぐる",
+        "norm": "巡る",
+        "pos": "VERB",
+        "lemma": "めぐる"
+    },
+    {
+        "text": "距離",
+        "norm": "距離",
+        "pos": "NOUN",
+        "lemma": "距離"
+    },
+    {
+        "text": "交わす",
+        "norm": "交わす",
+        "pos": "VERB",
+        "lemma": "交わす"
+    },
+    {
+        "text": "数多く",
+        "norm": "数多く",
+        "pos": "ADV",
+        "lemma": "数多く"
+    },
+    {
+        "text": "ある",
+        "norm": "有る",
+        "pos": "VERB",
+        "lemma": "ある"
+    },
+    {
+        "text": "関与",
+        "norm": "関与",
+        "pos": "NOUN",
+        "lemma": "関与"
+    },
+    {
+        "text": "へ",
+        "norm": "へ",
+        "pos": "ADP",
+        "lemma": "へ"
+    },
+    {
+        "text": "幻滅",
+        "norm": "幻滅",
+        "pos": "VERB",
+        "lemma": "幻滅"
+    },
+    {
+        "text": "大統領",
+        "norm": "大統領",
+        "pos": "NOUN",
+        "lemma": "大統領"
+    },
+    {
+        "text": "半",
+        "norm": "半",
+        "pos": "NOUN",
+        "lemma": "半"
+    },
+    {
+        "text": "海域",
+        "norm": "海域",
+        "pos": "NOUN",
+        "lemma": "海域"
+    },
+    {
+        "text": "問題",
+        "norm": "問題",
+        "pos": "NOUN",
+        "lemma": "問題"
+    },
+    {
+        "text": "域内",
+        "norm": "域内",
+        "pos": "NOUN",
+        "lemma": "域内"
+    },
+    {
+        "text": "だ",
+        "norm": "た",
+        "pos": "AUX",
+        "lemma": "だ"
+    },
+    {
+        "text": "日本",
+        "norm": "日本",
+        "pos": "PROPN",
+        "lemma": "日本"
+    },
+    {
+        "text": "安定",
+        "norm": "安定",
+        "pos": "NOUN",
+        "lemma": "安定"
+    },
+    {
+        "text": "日韓",
+        "norm": "日韓",
+        "pos": "NOUN",
+        "lemma": "日韓"
+    },
+    {
+        "text": "する",
+        "norm": "為る",
+        "pos": "AUX",
+        "lemma": "する"
+    },
+    {
+        "text": "含む",
+        "norm": "含む",
+        "pos": "VERB",
+        "lemma": "含む"
+    },
+    {
+        "text": "余念",
+        "norm": "余念",
+        "pos": "NOUN",
+        "lemma": "余念"
+    },
+    {
+        "text": "空",
+        "norm": "空",
+        "pos": "NOUN",
+        "lemma": "空"
+    },
+    {
+        "text": "化",
+        "norm": "化",
+        "pos": "NOUN",
+        "lemma": "化"
+    },
+    {
+        "text": "状況",
+        "norm": "状況",
+        "pos": "NOUN",
+        "lemma": "状況"
+    },
+    {
+        "text": "「",
+        "norm": "「",
+        "pos": "PUNCT",
+        "lemma": "「"
+    },
+    {
+        "text": "会談",
+        "norm": "会談",
+        "pos": "VERB",
+        "lemma": "会談"
+    },
+    {
+        "text": "たい",
+        "norm": "たい",
+        "pos": "AUX",
+        "lemma": "たい"
+    },
+    {
+        "text": "開発",
+        "norm": "開発",
+        "pos": "NOUN",
+        "lemma": "開発"
+    },
+    {
+        "text": "（",
+        "norm": "(",
+        "pos": "PUNCT",
+        "lemma": "("
+    },
+    {
+        "text": "ない",
+        "norm": "ない",
+        "pos": "AUX",
+        "lemma": "ない"
+    },
+    {
+        "text": "よる",
+        "norm": "よる",
+        "pos": "VERB",
+        "lemma": "よる"
+    },
+    {
+        "text": "記事",
+        "norm": "記事",
+        "pos": "NOUN",
+        "lemma": "記事"
+    },
+    {
+        "text": "新た",
+        "norm": "新た",
+        "pos": "ADJ",
+        "lemma": "新た"
+    },
+    {
+        "text": "さらなる",
+        "norm": "更なる",
+        "pos": "ADJ",
+        "lemma": "さらなる"
+    },
+    {
+        "text": "的",
+        "norm": "的",
+        "pos": "PART",
+        "lemma": "的"
+    },
+    {
+        "text": "安全",
+        "norm": "安全",
+        "pos": "NOUN",
+        "lemma": "安全"
+    },
+    {
+        "text": "防ぐ",
+        "norm": "防ぐ",
+        "pos": "VERB",
+        "lemma": "防ぐ"
+    },
+    {
+        "text": "の",
+        "norm": "の",
+        "pos": "SCONJ",
+        "lemma": "の"
+    },
+    {
+        "text": "核兵器",
+        "norm": "核兵器",
+        "pos": "NOUN",
+        "lemma": "核兵器"
+    },
+    {
+        "text": "グローバル",
+        "norm": "グローバル",
+        "pos": "ADJ",
+        "lemma": "グローバル"
+    },
+    {
+        "text": "相",
+        "norm": "相",
+        "pos": "NOUN",
+        "lemma": "相"
+    },
+    {
+        "text": "伏在",
+        "norm": "伏在",
+        "pos": "VERB",
+        "lemma": "伏在"
+    },
+    {
+        "text": "責任",
+        "norm": "責任",
+        "pos": "NOUN",
+        "lemma": "責任"
+    },
+    {
+        "text": "次期",
+        "norm": "次期",
+        "pos": "NOUN",
+        "lemma": "次期"
+    },
+    {
+        "text": "呈し",
+        "norm": "呈する",
+        "pos": "VERB",
+        "lemma": "呈する"
+    },
+    {
+        "text": "会議",
+        "norm": "会議",
+        "pos": "NOUN",
+        "lemma": "会議"
+    },
+    {
+        "text": "に",
+        "norm": "だ",
+        "pos": "ADP",
+        "lemma": "だ"
+    },
+    {
+        "text": "実現",
+        "norm": "実現",
+        "pos": "NOUN",
+        "lemma": "実現"
+    },
+    {
+        "text": "に",
+        "norm": "に",
+        "pos": "ADP",
+        "lemma": "に"
+    },
+    {
+        "text": "与野党",
+        "norm": "与野党",
+        "pos": "NOUN",
+        "lemma": "与野党"
+    },
+    {
+        "text": "）",
+        "norm": ")",
+        "pos": "PUNCT",
+        "lemma": ")"
+    },
+    {
+        "text": "こと",
+        "norm": "こと",
+        "pos": "NOUN",
+        "lemma": "こと"
+    },
+    {
+        "text": "し",
+        "norm": "為る",
+        "pos": "AUX",
+        "lemma": "する"
+    },
+    {
+        "text": "言い",
+        "norm": "言う",
+        "pos": "VERB",
+        "lemma": "言う"
+    },
+    {
+        "text": "当局",
+        "norm": "当局",
+        "pos": "NOUN",
+        "lemma": "当局"
+    },
+    {
+        "text": "国々",
+        "norm": "国々",
+        "pos": "NOUN",
+        "lemma": "国々"
+    },
+    {
+        "text": "ね",
+        "norm": "ず",
+        "pos": "AUX",
+        "lemma": "ぬ"
+    },
+    {
+        "text": "両国",
+        "norm": "両国",
+        "pos": "NOUN",
+        "lemma": "両国"
+    },
+    {
+        "text": "相互",
+        "norm": "相互",
+        "pos": "NOUN",
+        "lemma": "相互"
+    },
+    {
+        "text": "合意",
+        "norm": "合意",
+        "pos": "VERB",
+        "lemma": "合意"
+    },
+    {
+        "text": "米",
+        "norm": "米",
+        "pos": "NOUN",
+        "lemma": "米"
+    },
+    {
+        "text": "選挙",
+        "norm": "選挙",
+        "pos": "NOUN",
+        "lemma": "選挙"
+    },
+    {
+        "text": "閣僚",
+        "norm": "閣僚",
+        "pos": "NOUN",
+        "lemma": "閣僚"
+    },
+    {
+        "text": "抑止",
+        "norm": "抑止",
+        "pos": "NOUN",
+        "lemma": "抑止"
+    },
+    {
+        "text": "歓迎",
+        "norm": "歓迎",
+        "pos": "VERB",
+        "lemma": "歓迎"
+    },
+    {
+        "text": "合わせ",
+        "norm": "合わせる",
+        "pos": "VERB",
+        "lemma": "合わせる"
+    },
+    {
+        "text": "月",
+        "norm": "月",
+        "pos": "NOUN",
+        "lemma": "月"
+    },
+    {
+        "text": "開か",
+        "norm": "開く",
+        "pos": "VERB",
+        "lemma": "開く"
+    },
+    {
+        "text": "つなげ",
+        "norm": "繋げる",
+        "pos": "VERB",
+        "lemma": "つなげる"
+    },
+    {
+        "text": "年",
+        "norm": "年",
+        "pos": "NOUN",
+        "lemma": "年"
+    },
+    {
+        "text": "片",
+        "norm": "片",
+        "pos": "NOUN",
+        "lemma": "片"
+    },
+    {
+        "text": "た",
+        "norm": "た",
+        "pos": "AUX",
+        "lemma": "た"
+    },
+    {
+        "text": "１１",
+        "norm": "11",
+        "pos": "NUM",
+        "lemma": "11"
+    },
+    {
+        "text": "アジア",
+        "norm": "アジア",
+        "pos": "PROPN",
+        "lemma": "アジア"
+    },
+    {
+        "text": "意見",
+        "norm": "意見",
+        "pos": "NOUN",
+        "lemma": "意見"
+    },
+    {
+        "text": "大国",
+        "norm": "大国",
+        "pos": "NOUN",
+        "lemma": "大国"
+    },
+    {
+        "text": "中",
+        "norm": "中",
+        "pos": "NOUN",
+        "lemma": "中"
+    },
+    {
+        "text": "共謀",
+        "norm": "共謀",
+        "pos": "NOUN",
+        "lemma": "共謀"
+    },
+    {
+        "text": "担当",
+        "norm": "担当",
+        "pos": "NOUN",
+        "lemma": "担当"
+    },
+    {
+        "text": "脅し",
+        "norm": "脅し",
+        "pos": "NOUN",
+        "lemma": "脅し"
+    },
+    {
+        "text": "もの",
+        "norm": "物",
+        "pos": "SCONJ",
+        "lemma": "もの"
+    },
+    {
+        "text": "だけ",
+        "norm": "だけ",
+        "pos": "PART",
+        "lemma": "だけ"
+    },
+    {
+        "text": "ロシア",
+        "norm": "ロシア",
+        "pos": "PROPN",
+        "lemma": "ロシア"
+    },
+    {
+        "text": "情勢",
+        "norm": "情勢",
+        "pos": "NOUN",
+        "lemma": "情勢"
+    },
+    {
+        "text": "照射",
+        "norm": "照射",
+        "pos": "NOUN",
+        "lemma": "照射"
+    },
+    {
+        "text": "台湾",
+        "norm": "台湾",
+        "pos": "PROPN",
+        "lemma": "台湾"
+    },
+    {
+        "text": "通じ",
+        "norm": "通じる",
+        "pos": "VERB",
+        "lemma": "通ずる"
+    },
+    {
+        "text": "存在感",
+        "norm": "存在感",
+        "pos": "NOUN",
+        "lemma": "存在感"
+    },
+    {
+        "text": "網",
+        "norm": "網",
+        "pos": "NOUN",
+        "lemma": "網"
+    },
+    {
+        "text": "軍事",
+        "norm": "軍事",
+        "pos": "NOUN",
+        "lemma": "軍事"
+    },
+    {
+        "text": "改善",
+        "norm": "改善",
+        "pos": "NOUN",
+        "lemma": "改善"
+    },
+    {
+        "text": "前進",
+        "norm": "前進",
+        "pos": "NOUN",
+        "lemma": "前進"
+    },
+    {
+        "text": "目標",
+        "norm": "目標",
+        "pos": "NOUN",
+        "lemma": "目標"
+    },
+    {
+        "text": "長期的",
+        "norm": "長期的",
+        "pos": "ADJ",
+        "lemma": "長期的"
+    },
+    {
+        "text": "が",
+        "norm": "が",
+        "pos": "SCONJ",
+        "lemma": "が"
+    },
+    {
+        "text": "望み",
+        "norm": "望む",
+        "pos": "VERB",
+        "lemma": "望む"
+    },
+    {
+        "text": "対面",
+        "norm": "対面",
+        "pos": "NOUN",
+        "lemma": "対面"
+    },
+    {
+        "text": "要因",
+        "norm": "要因",
+        "pos": "NOUN",
+        "lemma": "要因"
+    },
+    {
+        "text": "再開",
+        "norm": "再開",
+        "pos": "NOUN",
+        "lemma": "再開"
+    },
+    {
+        "text": "不安定",
+        "norm": "不安定",
+        "pos": "NOUN",
+        "lemma": "不安定"
+    },
+    {
+        "text": "応酬",
+        "norm": "応酬",
+        "pos": "NOUN",
+        "lemma": "応酬"
+    },
+    {
+        "text": "望む",
+        "norm": "望む",
+        "pos": "VERB",
+        "lemma": "望む"
+    },
+    {
+        "text": "い",
+        "norm": "居る",
+        "pos": "VERB",
+        "lemma": "いる"
+    },
+    {
+        "text": "声",
+        "norm": "声",
+        "pos": "NOUN",
+        "lemma": "声"
+    },
+    {
+        "text": "激しい",
+        "norm": "激しい",
+        "pos": "ADJ",
+        "lemma": "激しい"
+    },
+    {
+        "text": "いる",
+        "norm": "居る",
+        "pos": "VERB",
+        "lemma": "いる"
+    },
+    {
+        "text": "を",
+        "norm": "を",
+        "pos": "ADP",
+        "lemma": "を"
+    },
+    {
+        "text": "勢力",
+        "norm": "勢力",
+        "pos": "NOUN",
+        "lemma": "勢力"
+    },
+    {
+        "text": "政治",
+        "norm": "政治",
+        "pos": "NOUN",
+        "lemma": "政治"
+    },
+    {
+        "text": "重く",
+        "norm": "重い",
+        "pos": "ADJ",
+        "lemma": "重い"
+    },
+    {
+        "text": "にらん",
+        "norm": "睨む",
+        "pos": "VERB",
+        "lemma": "にらむ"
+    },
+    {
+        "text": "苦言",
+        "norm": "苦言",
+        "pos": "NOUN",
+        "lemma": "苦言"
+    },
+    {
+        "text": "読み",
+        "norm": "読む",
+        "pos": "VERB",
+        "lemma": "読む"
+    },
+    {
+        "text": "演説",
+        "norm": "演説",
+        "pos": "NOUN",
+        "lemma": "演説"
+    },
+    {
+        "text": "のみ",
+        "norm": "のみ",
+        "pos": "ADP",
+        "lemma": "のみ"
+    },
+    {
+        "text": "不一致",
+        "norm": "不一致",
+        "pos": "NOUN",
+        "lemma": "不一致"
+    },
+    {
+        "text": "限定",
+        "norm": "限定",
+        "pos": "NOUN",
+        "lemma": "限定"
+    },
+    {
+        "text": "で",
+        "norm": "で",
+        "pos": "ADP",
+        "lemma": "で"
+    },
+    {
+        "text": "動かし",
+        "norm": "動かす",
+        "pos": "VERB",
+        "lemma": "動かす"
+    },
+    {
+        "text": "構図",
+        "norm": "構図",
+        "pos": "NOUN",
+        "lemma": "構図"
+    },
+    {
+        "text": "対応",
+        "norm": "対応",
+        "pos": "NOUN",
+        "lemma": "対応"
+    },
+    {
+        "text": "折",
+        "norm": "折",
+        "pos": "NOUN",
+        "lemma": "折"
+    },
+    {
+        "text": "次い",
+        "norm": "次ぐ",
+        "pos": "VERB",
+        "lemma": "次ぐ"
+    },
+    {
+        "text": "強まる",
+        "norm": "強まる",
+        "pos": "VERB",
+        "lemma": "強まる"
+    },
+    {
+        "text": "軍事力",
+        "norm": "軍事力",
+        "pos": "NOUN",
+        "lemma": "軍事力"
+    },
+    {
+        "text": "も",
+        "norm": "も",
+        "pos": "ADP",
+        "lemma": "も"
+    },
+    {
+        "text": "危機",
+        "norm": "危機",
+        "pos": "NOUN",
+        "lemma": "危機"
+    },
+    {
+        "text": "て",
+        "norm": "て",
+        "pos": "SCONJ",
+        "lemma": "て"
+    },
+    {
+        "text": "岩礁",
+        "norm": "岩礁",
+        "pos": "NOUN",
+        "lemma": "岩礁"
+    },
+    {
+        "text": "低減",
+        "norm": "低減",
+        "pos": "NOUN",
+        "lemma": "低減"
+    }
+]

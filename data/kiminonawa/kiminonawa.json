@@ -1,0 +1,1382 @@
+[
+    {
+        "text": "運ぶ",
+        "norm": "運ぶ",
+        "pos": "VERB",
+        "lemma": "運ぶ"
+    },
+    {
+        "text": "身",
+        "norm": "身",
+        "pos": "NOUN",
+        "lemma": "身"
+    },
+    {
+        "text": "もう",
+        "norm": "もう",
+        "pos": "ADV",
+        "lemma": "もう"
+    },
+    {
+        "text": "が",
+        "norm": "が",
+        "pos": "ADP",
+        "lemma": "が"
+    },
+    {
+        "text": "駅",
+        "norm": "駅",
+        "pos": "NOUN",
+        "lemma": "駅"
+    },
+    {
+        "text": "ば",
+        "norm": "ば",
+        "pos": "SCONJ",
+        "lemma": "ば"
+    },
+    {
+        "text": "さっき",
+        "norm": "さっき",
+        "pos": "NOUN",
+        "lemma": "さっき"
+    },
+    {
+        "text": "愛おしい",
+        "norm": "愛おしい",
+        "pos": "ADJ",
+        "lemma": "愛おしい"
+    },
+    {
+        "text": "のっ",
+        "norm": "乗る",
+        "pos": "VERB",
+        "lemma": "のる"
+    },
+    {
+        "text": "つい",
+        "norm": "つい",
+        "pos": "ADV",
+        "lemma": "つい"
+    },
+    {
+        "text": "跡形",
+        "norm": "跡形",
+        "pos": "NOUN",
+        "lemma": "跡形"
+    },
+    {
+        "text": "こう",
+        "norm": "こう",
+        "pos": "ADV",
+        "lemma": "こう"
+    },
+    {
+        "text": "隙間",
+        "norm": "隙間",
+        "pos": "NOUN",
+        "lemma": "隙間"
+    },
+    {
+        "text": "ひと",
+        "norm": "一",
+        "pos": "NUM",
+        "lemma": "ひと"
+    },
+    {
+        "text": "ある",
+        "norm": "有る",
+        "pos": "VERB",
+        "lemma": "ある"
+    },
+    {
+        "text": "はず",
+        "norm": "筈",
+        "pos": "NOUN",
+        "lemma": "はず"
+    },
+    {
+        "text": "右手",
+        "norm": "右手",
+        "pos": "NOUN",
+        "lemma": "右手"
+    },
+    {
+        "text": "結う",
+        "norm": "結う",
+        "pos": "VERB",
+        "lemma": "結う"
+    },
+    {
+        "text": "思う",
+        "norm": "思う",
+        "pos": "VERB",
+        "lemma": "思う"
+    },
+    {
+        "text": "車輛",
+        "norm": "車両",
+        "pos": "NOUN",
+        "lemma": "車輛"
+    },
+    {
+        "text": "な",
+        "norm": "だ",
+        "pos": "AUX",
+        "lemma": "だ"
+    },
+    {
+        "text": "ぼんやり",
+        "norm": "ぼんやり",
+        "pos": "ADV",
+        "lemma": "ぼんやり"
+    },
+    {
+        "text": "や",
+        "norm": "や",
+        "pos": "ADP",
+        "lemma": "や"
+    },
+    {
+        "text": "峰",
+        "norm": "峰",
+        "pos": "NOUN",
+        "lemma": "峰"
+    },
+    {
+        "text": "未",
+        "norm": "未",
+        "pos": "NOUN",
+        "lemma": "未"
+    },
+    {
+        "text": "気持ち",
+        "norm": "気持ち",
+        "pos": "NOUN",
+        "lemma": "気持ち"
+    },
+    {
+        "text": "天井",
+        "norm": "天井",
+        "pos": "NOUN",
+        "lemma": "天井"
+    },
+    {
+        "text": "溢れ",
+        "norm": "溢れる",
+        "pos": "VERB",
+        "lemma": "溢れる"
+    },
+    {
+        "text": "抱か",
+        "norm": "抱く",
+        "pos": "VERB",
+        "lemma": "抱く"
+    },
+    {
+        "text": "なぜ",
+        "norm": "何故",
+        "pos": "ADV",
+        "lemma": "なぜ"
+    },
+    {
+        "text": "流れ",
+        "norm": "流れる",
+        "pos": "VERB",
+        "lemma": "流れる"
+    },
+    {
+        "text": "ち",
+        "norm": "ち",
+        "pos": "NOUN",
+        "lemma": "ち"
+    },
+    {
+        "text": "洗い",
+        "norm": "洗う",
+        "pos": "VERB",
+        "lemma": "洗う"
+    },
+    {
+        "text": "いまだ",
+        "norm": "未だ",
+        "pos": "ADV",
+        "lemma": "いまだ"
+    },
+    {
+        "text": "かつて",
+        "norm": "嘗て",
+        "pos": "ADV",
+        "lemma": "かつて"
+    },
+    {
+        "text": "じっと",
+        "norm": "じっと",
+        "pos": "ADV",
+        "lemma": "じっと"
+    },
+    {
+        "text": "探し",
+        "norm": "探す",
+        "pos": "VERB",
+        "lemma": "探す"
+    },
+    {
+        "text": "を",
+        "norm": "を",
+        "pos": "ADP",
+        "lemma": "を"
+    },
+    {
+        "text": "髪",
+        "norm": "髪",
+        "pos": "NOUN",
+        "lemma": "髪"
+    },
+    {
+        "text": "まで",
+        "norm": "まで",
+        "pos": "ADP",
+        "lemma": "まで"
+    },
+    {
+        "text": "もの",
+        "norm": "物",
+        "pos": "NOUN",
+        "lemma": "もの"
+    },
+    {
+        "text": "見る",
+        "norm": "見る",
+        "pos": "VERB",
+        "lemma": "見る"
+    },
+    {
+        "text": "分から",
+        "norm": "分かる",
+        "pos": "VERB",
+        "lemma": "分かる"
+    },
+    {
+        "text": "秒",
+        "norm": "秒",
+        "pos": "NOUN",
+        "lemma": "秒"
+    },
+    {
+        "text": "くっつい",
+        "norm": "くっ付く",
+        "pos": "VERB",
+        "lemma": "くっつく"
+    },
+    {
+        "text": "よう",
+        "norm": "よう",
+        "pos": "NOUN",
+        "lemma": "よう"
+    },
+    {
+        "text": "体",
+        "norm": "体",
+        "pos": "NOUN",
+        "lemma": "体"
+    },
+    {
+        "text": "言える",
+        "norm": "言う",
+        "pos": "VERB",
+        "lemma": "言える"
+    },
+    {
+        "text": "慣れ",
+        "norm": "慣れる",
+        "pos": "VERB",
+        "lemma": "慣れる"
+    },
+    {
+        "text": "結びつい",
+        "norm": "結び付く",
+        "pos": "VERB",
+        "lemma": "結びつく"
+    },
+    {
+        "text": "と",
+        "norm": "と",
+        "pos": "SCONJ",
+        "lemma": "と"
+    },
+    {
+        "text": "に",
+        "norm": "だ",
+        "pos": "AUX",
+        "lemma": "だ"
+    },
+    {
+        "text": "マンション",
+        "norm": "マンション",
+        "pos": "NOUN",
+        "lemma": "マンション"
+    },
+    {
+        "text": "満ち",
+        "norm": "満ちる",
+        "pos": "VERB",
+        "lemma": "満ちる"
+    },
+    {
+        "text": "吞",
+        "norm": "吞",
+        "pos": "NOUN",
+        "lemma": "吞"
+    },
+    {
+        "text": "電車",
+        "norm": "電車",
+        "pos": "NOUN",
+        "lemma": "電車"
+    },
+    {
+        "text": "げ",
+        "norm": "げ",
+        "pos": "PART",
+        "lemma": "げ"
+    },
+    {
+        "text": "どこ",
+        "norm": "どこ",
+        "pos": "PRON",
+        "lemma": "どこ"
+    },
+    {
+        "text": "名",
+        "norm": "名",
+        "pos": "NOUN",
+        "lemma": "名"
+    },
+    {
+        "text": "寄りかかり",
+        "norm": "寄り掛かる",
+        "pos": "VERB",
+        "lemma": "寄りかかる"
+    },
+    {
+        "text": "懐かしい",
+        "norm": "懐かしい",
+        "pos": "ADJ",
+        "lemma": "懐かしい"
+    },
+    {
+        "text": "見返し",
+        "norm": "見返す",
+        "pos": "VERB",
+        "lemma": "見返す"
+    },
+    {
+        "text": "スーツ",
+        "norm": "スーツ",
+        "pos": "NOUN",
+        "lemma": "スーツ"
+    },
+    {
+        "text": "湿ら",
+        "norm": "湿る",
+        "pos": "VERB",
+        "lemma": "湿る"
+    },
+    {
+        "text": "朝",
+        "norm": "朝",
+        "pos": "ADV",
+        "lemma": "朝"
+    },
+    {
+        "text": "出",
+        "norm": "出る",
+        "pos": "VERB",
+        "lemma": "出る"
+    },
+    {
+        "text": "温度",
+        "norm": "温度",
+        "pos": "NOUN",
+        "lemma": "温度"
+    },
+    {
+        "text": "向かう",
+        "norm": "向かう",
+        "pos": "VERB",
+        "lemma": "向かう"
+    },
+    {
+        "text": "街",
+        "norm": "街",
+        "pos": "NOUN",
+        "lemma": "街"
+    },
+    {
+        "text": "分かち",
+        "norm": "分かつ",
+        "pos": "VERB",
+        "lemma": "分かつ"
+    },
+    {
+        "text": "夢",
+        "norm": "夢",
+        "pos": "NOUN",
+        "lemma": "夢"
+    },
+    {
+        "text": "開く",
+        "norm": "開く",
+        "pos": "VERB",
+        "lemma": "開く"
+    },
+    {
+        "text": "気",
+        "norm": "気",
+        "pos": "NOUN",
+        "lemma": "気"
+    },
+    {
+        "text": "一体",
+        "norm": "一体",
+        "pos": "NOUN",
+        "lemma": "一体"
+    },
+    {
+        "text": "乳房",
+        "norm": "乳房",
+        "pos": "NOUN",
+        "lemma": "乳房"
+    },
+    {
+        "text": "列車",
+        "norm": "列車",
+        "pos": "NOUN",
+        "lemma": "列車"
+    },
+    {
+        "text": "あまり",
+        "norm": "余り",
+        "pos": "ADJ",
+        "lemma": "あまり"
+    },
+    {
+        "text": "気づけ",
+        "norm": "気付く",
+        "pos": "VERB",
+        "lemma": "気づく"
+    },
+    {
+        "text": "で",
+        "norm": "で",
+        "pos": "SCONJ",
+        "lemma": "で"
+    },
+    {
+        "text": "つ",
+        "norm": "つ",
+        "pos": "NOUN",
+        "lemma": "つ"
+    },
+    {
+        "text": "抜け",
+        "norm": "抜ける",
+        "pos": "VERB",
+        "lemma": "抜ける"
+    },
+    {
+        "text": "俺",
+        "norm": "俺",
+        "pos": "PRON",
+        "lemma": "俺"
+    },
+    {
+        "text": "なんて",
+        "norm": "なんて",
+        "pos": "ADP",
+        "lemma": "なんて"
+    },
+    {
+        "text": "ぬる",
+        "norm": "温い",
+        "pos": "ADJ",
+        "lemma": "ぬるい"
+    },
+    {
+        "text": "ベッド",
+        "norm": "ベッド",
+        "pos": "NOUN",
+        "lemma": "ベッド"
+    },
+    {
+        "text": "山々",
+        "norm": "山々",
+        "pos": "NOUN",
+        "lemma": "山々"
+    },
+    {
+        "text": "唐突",
+        "norm": "唐突",
+        "pos": "ADJ",
+        "lemma": "唐突"
+    },
+    {
+        "text": "、",
+        "norm": "、",
+        "pos": "PUNCT",
+        "lemma": "、"
+    },
+    {
+        "text": "乗っ",
+        "norm": "乗る",
+        "pos": "VERB",
+        "lemma": "乗る"
+    },
+    {
+        "text": "部屋",
+        "norm": "部屋",
+        "pos": "NOUN",
+        "lemma": "部屋"
+    },
+    {
+        "text": "ようやく",
+        "norm": "漸く",
+        "pos": "ADV",
+        "lemma": "ようやく"
+    },
+    {
+        "text": "流れる",
+        "norm": "流れる",
+        "pos": "VERB",
+        "lemma": "流れる"
+    },
+    {
+        "text": "も",
+        "norm": "も",
+        "pos": "ADP",
+        "lemma": "も"
+    },
+    {
+        "text": "ん",
+        "norm": "の",
+        "pos": "SCONJ",
+        "lemma": "ん"
+    },
+    {
+        "text": "がたく",
+        "norm": "難い",
+        "pos": "AUX",
+        "lemma": "がたい"
+    },
+    {
+        "text": "朝",
+        "norm": "朝",
+        "pos": "NOUN",
+        "lemma": "朝"
+    },
+    {
+        "text": "ビル",
+        "norm": "ビル",
+        "pos": "NOUN",
+        "lemma": "ビル"
+    },
+    {
+        "text": "よう",
+        "norm": "よう",
+        "pos": "AUX",
+        "lemma": "よう"
+    },
+    {
+        "text": "車",
+        "norm": "車",
+        "pos": "NOUN",
+        "lemma": "車"
+    },
+    {
+        "text": "歩道橋",
+        "norm": "歩道橋",
+        "pos": "NOUN",
+        "lemma": "歩道橋"
+    },
+    {
+        "text": "鏡",
+        "norm": "鏡",
+        "pos": "NOUN",
+        "lemma": "鏡"
+    },
+    {
+        "text": "アパート",
+        "norm": "アパート",
+        "pos": "NOUN",
+        "lemma": "アパート"
+    },
+    {
+        "text": "と",
+        "norm": "と",
+        "pos": "ADP",
+        "lemma": "と"
+    },
+    {
+        "text": "─",
+        "norm": "─",
+        "pos": "SYM",
+        "lemma": "─"
+    },
+    {
+        "text": "降り",
+        "norm": "降る",
+        "pos": "VERB",
+        "lemma": "降る"
+    },
+    {
+        "text": "て",
+        "norm": "て",
+        "pos": "SCONJ",
+        "lemma": "て"
+    },
+    {
+        "text": "通す",
+        "norm": "通す",
+        "pos": "VERB",
+        "lemma": "通す"
+    },
+    {
+        "text": "から",
+        "norm": "から",
+        "pos": "ADP",
+        "lemma": "から"
+    },
+    {
+        "text": "かけら",
+        "norm": "欠片",
+        "pos": "NOUN",
+        "lemma": "かけら"
+    },
+    {
+        "text": "こぼれる",
+        "norm": "こぼれる",
+        "pos": "VERB",
+        "lemma": "こぼれる"
+    },
+    {
+        "text": "小さな",
+        "norm": "小さな",
+        "pos": "ADJ",
+        "lemma": "小さな"
+    },
+    {
+        "text": "水",
+        "norm": "水",
+        "pos": "NOUN",
+        "lemma": "水"
+    },
+    {
+        "text": "か",
+        "norm": "か",
+        "pos": "ADP",
+        "lemma": "か"
+    },
+    {
+        "text": "ながら",
+        "norm": "ながら",
+        "pos": "SCONJ",
+        "lemma": "ながら"
+    },
+    {
+        "text": "味",
+        "norm": "味",
+        "pos": "NOUN",
+        "lemma": "味"
+    },
+    {
+        "text": "エスカレーター",
+        "norm": "エスカレーター",
+        "pos": "NOUN",
+        "lemma": "エスカレーター"
+    },
+    {
+        "text": "なに",
+        "norm": "何",
+        "pos": "PRON",
+        "lemma": "なに"
+    },
+    {
+        "text": "不安",
+        "norm": "不安",
+        "pos": "NOUN",
+        "lemma": "不安"
+    },
+    {
+        "text": "その",
+        "norm": "其の",
+        "pos": "DET",
+        "lemma": "その"
+    },
+    {
+        "text": "消え失せ",
+        "norm": "消え失せる",
+        "pos": "VERB",
+        "lemma": "消え失せる"
+    },
+    {
+        "text": "ぬぐっ",
+        "norm": "拭う",
+        "pos": "VERB",
+        "lemma": "ぬぐう"
+    },
+    {
+        "text": "いく",
+        "norm": "行く",
+        "pos": "VERB",
+        "lemma": "いく"
+    },
+    {
+        "text": "に",
+        "norm": "に",
+        "pos": "ADP",
+        "lemma": "に"
+    },
+    {
+        "text": "乳",
+        "norm": "乳",
+        "pos": "NOUN",
+        "lemma": "乳"
+    },
+    {
+        "text": "声",
+        "norm": "声",
+        "pos": "NOUN",
+        "lemma": "声"
+    },
+    {
+        "text": "頃",
+        "norm": "頃",
+        "pos": "NOUN",
+        "lemma": "頃"
+    },
+    {
+        "text": "ひとり",
+        "norm": "一人",
+        "pos": "NOUN",
+        "lemma": "ひとり"
+    },
+    {
+        "text": "ネクタイ",
+        "norm": "ネクタイ",
+        "pos": "NOUN",
+        "lemma": "ネクタイ"
+    },
+    {
+        "text": "春物",
+        "norm": "春物",
+        "pos": "NOUN",
+        "lemma": "春物"
+    },
+    {
+        "text": "花曇り",
+        "norm": "花曇り",
+        "pos": "NOUN",
+        "lemma": "花曇り"
+    },
+    {
+        "text": "なく",
+        "norm": "無い",
+        "pos": "ADJ",
+        "lemma": "ない"
+    },
+    {
+        "text": "二",
+        "norm": "2",
+        "pos": "NUM",
+        "lemma": "二"
+    },
+    {
+        "text": "眺める",
+        "norm": "眺める",
+        "pos": "VERB",
+        "lemma": "眺める"
+    },
+    {
+        "text": "あたたか",
+        "norm": "温か",
+        "pos": "ADJ",
+        "lemma": "あたたか"
+    },
+    {
+        "text": "ほとんど",
+        "norm": "殆ど",
+        "pos": "ADV",
+        "lemma": "ほとんど"
+    },
+    {
+        "text": "は",
+        "norm": "は",
+        "pos": "ADP",
+        "lemma": "は"
+    },
+    {
+        "text": "私",
+        "norm": "私",
+        "pos": "PRON",
+        "lemma": "私"
+    },
+    {
+        "text": "いう",
+        "norm": "言う",
+        "pos": "VERB",
+        "lemma": "いう"
+    },
+    {
+        "text": "匂い",
+        "norm": "匂う",
+        "pos": "NOUN",
+        "lemma": "匂う"
+    },
+    {
+        "text": "あきらめ",
+        "norm": "諦める",
+        "pos": "VERB",
+        "lemma": "あきらめる"
+    },
+    {
+        "text": "そして",
+        "norm": "そして",
+        "pos": "CCONJ",
+        "lemma": "そして"
+    },
+    {
+        "text": "だけ",
+        "norm": "だけ",
+        "pos": "ADP",
+        "lemma": "だけ"
+    },
+    {
+        "text": "児",
+        "norm": "児",
+        "pos": "NOUN",
+        "lemma": "児"
+    },
+    {
+        "text": "ない",
+        "norm": "ない",
+        "pos": "AUX",
+        "lemma": "ない"
+    },
+    {
+        "text": "目尻",
+        "norm": "目尻",
+        "pos": "NOUN",
+        "lemma": "目尻"
+    },
+    {
+        "text": "空",
+        "norm": "空",
+        "pos": "NOUN",
+        "lemma": "空"
+    },
+    {
+        "text": "光",
+        "norm": "光",
+        "pos": "NOUN",
+        "lemma": "光"
+    },
+    {
+        "text": "甘やか",
+        "norm": "甘やか",
+        "pos": "ADJ",
+        "lemma": "甘やか"
+    },
+    {
+        "text": "の",
+        "norm": "の",
+        "pos": "ADP",
+        "lemma": "の"
+    },
+    {
+        "text": "高層",
+        "norm": "高層",
+        "pos": "NOUN",
+        "lemma": "高層"
+    },
+    {
+        "text": "不満",
+        "norm": "不満",
+        "pos": "ADJ",
+        "lemma": "不満"
+    },
+    {
+        "text": "袖",
+        "norm": "袖",
+        "pos": "NOUN",
+        "lemma": "袖"
+    },
+    {
+        "text": "窓",
+        "norm": "窓",
+        "pos": "NOUN",
+        "lemma": "窓"
+    },
+    {
+        "text": "た",
+        "norm": "た",
+        "pos": "AUX",
+        "lemma": "た"
+    },
+    {
+        "text": "さ",
+        "norm": "さ",
+        "pos": "PART",
+        "lemma": "さ"
+    },
+    {
+        "text": "驚い",
+        "norm": "驚く",
+        "pos": "VERB",
+        "lemma": "驚く"
+    },
+    {
+        "text": "洗面所",
+        "norm": "洗面所",
+        "pos": "NOUN",
+        "lemma": "洗面所"
+    },
+    {
+        "text": "思い出せ",
+        "norm": "思い出す",
+        "pos": "VERB",
+        "lemma": "思い出せる"
+    },
+    {
+        "text": "なっ",
+        "norm": "成る",
+        "pos": "VERB",
+        "lemma": "なる"
+    },
+    {
+        "text": "ほど",
+        "norm": "ほど",
+        "pos": "ADP",
+        "lemma": "ほど"
+    },
+    {
+        "text": "通勤",
+        "norm": "通勤",
+        "pos": "NOUN",
+        "lemma": "通勤"
+    },
+    {
+        "text": "じんじん",
+        "norm": "じんじん",
+        "pos": "ADV",
+        "lemma": "じんじん"
+    },
+    {
+        "text": "間",
+        "norm": "間",
+        "pos": "NOUN",
+        "lemma": "間"
+    },
+    {
+        "text": "閉める",
+        "norm": "閉める",
+        "pos": "VERB",
+        "lemma": "閉める"
+    },
+    {
+        "text": "だれ",
+        "norm": "誰",
+        "pos": "PRON",
+        "lemma": "だれ"
+    },
+    {
+        "text": "名前",
+        "norm": "名前",
+        "pos": "NOUN",
+        "lemma": "名前"
+    },
+    {
+        "text": "き",
+        "norm": "来る",
+        "pos": "VERB",
+        "lemma": "くる"
+    },
+    {
+        "text": "白い",
+        "norm": "白い",
+        "pos": "ADJ",
+        "lemma": "白い"
+    },
+    {
+        "text": "目",
+        "norm": "目",
+        "pos": "NOUN",
+        "lemma": "目"
+    },
+    {
+        "text": "いくつ",
+        "norm": "幾つ",
+        "pos": "NOUN",
+        "lemma": "いくつ"
+    },
+    {
+        "text": "のみ",
+        "norm": "のみ",
+        "pos": "ADP",
+        "lemma": "のみ"
+    },
+    {
+        "text": "余韻",
+        "norm": "余韻",
+        "pos": "NOUN",
+        "lemma": "余韻"
+    },
+    {
+        "text": "混み合っ",
+        "norm": "混み合う",
+        "pos": "VERB",
+        "lemma": "混み合う"
+    },
+    {
+        "text": "ない",
+        "norm": "無い",
+        "pos": "ADJ",
+        "lemma": "ない"
+    },
+    {
+        "text": "とても",
+        "norm": "迚も",
+        "pos": "ADV",
+        "lemma": "とても"
+    },
+    {
+        "text": "時々",
+        "norm": "時々",
+        "pos": "ADV",
+        "lemma": "時々"
+    },
+    {
+        "text": "この",
+        "norm": "此の",
+        "pos": "DET",
+        "lemma": "この"
+    },
+    {
+        "text": "あっ",
+        "norm": "有る",
+        "pos": "VERB",
+        "lemma": "ある"
+    },
+    {
+        "text": "大切",
+        "norm": "大切",
+        "pos": "ADJ",
+        "lemma": "大切"
+    },
+    {
+        "text": "見",
+        "norm": "見る",
+        "pos": "VERB",
+        "lemma": "見る"
+    },
+    {
+        "text": "広がっ",
+        "norm": "広がる",
+        "pos": "VERB",
+        "lemma": "広がる"
+    },
+    {
+        "text": "で",
+        "norm": "で",
+        "pos": "ADP",
+        "lemma": "で"
+    },
+    {
+        "text": "改札",
+        "norm": "改札",
+        "pos": "NOUN",
+        "lemma": "改札"
+    },
+    {
+        "text": "手",
+        "norm": "手",
+        "pos": "NOUN",
+        "lemma": "手"
+    },
+    {
+        "text": "前",
+        "norm": "前",
+        "pos": "NOUN",
+        "lemma": "前"
+    },
+    {
+        "text": "し",
+        "norm": "為る",
+        "pos": "VERB",
+        "lemma": "する"
+    },
+    {
+        "text": "ぴったり",
+        "norm": "ぴったり",
+        "pos": "ADV",
+        "lemma": "ぴったり"
+    },
+    {
+        "text": "顔",
+        "norm": "顔",
+        "pos": "NOUN",
+        "lemma": "顔"
+    },
+    {
+        "text": "風景",
+        "norm": "風景",
+        "pos": "NOUN",
+        "lemma": "風景"
+    },
+    {
+        "text": "降り",
+        "norm": "下りる",
+        "pos": "VERB",
+        "lemma": "降りる"
+    },
+    {
+        "text": "千",
+        "norm": "1000",
+        "pos": "NUM",
+        "lemma": "千"
+    },
+    {
+        "text": "そう",
+        "norm": "そう",
+        "pos": "ADV",
+        "lemma": "そう"
+    },
+    {
+        "text": "覚え",
+        "norm": "覚える",
+        "pos": "VERB",
+        "lemma": "覚える"
+    },
+    {
+        "text": "東京",
+        "norm": "東京",
+        "pos": "PROPN",
+        "lemma": "東京"
+    },
+    {
+        "text": "いる",
+        "norm": "居る",
+        "pos": "VERB",
+        "lemma": "いる"
+    },
+    {
+        "text": "起こす",
+        "norm": "起こす",
+        "pos": "VERB",
+        "lemma": "起こす"
+    },
+    {
+        "text": "いつも",
+        "norm": "いつも",
+        "pos": "NOUN",
+        "lemma": "いつも"
+    },
+    {
+        "text": "感",
+        "norm": "感",
+        "pos": "NOUN",
+        "lemma": "感"
+    },
+    {
+        "text": "泣い",
+        "norm": "泣く",
+        "pos": "VERB",
+        "lemma": "泣く"
+    },
+    {
+        "text": "人",
+        "norm": "人",
+        "pos": "NOUN",
+        "lemma": "人"
+    },
+    {
+        "text": "ふと",
+        "norm": "ふと",
+        "pos": "ADV",
+        "lemma": "ふと"
+    },
+    {
+        "text": "開け",
+        "norm": "開ける",
+        "pos": "VERB",
+        "lemma": "開ける"
+    },
+    {
+        "text": "百",
+        "norm": "100",
+        "pos": "NUM",
+        "lemma": "百"
+    },
+    {
+        "text": "一瞬",
+        "norm": "一瞬",
+        "pos": "ADV",
+        "lemma": "一瞬"
+    },
+    {
+        "text": "れ",
+        "norm": "れる",
+        "pos": "AUX",
+        "lemma": "れる"
+    },
+    {
+        "text": "本",
+        "norm": "本",
+        "pos": "NOUN",
+        "lemma": "本"
+    },
+    {
+        "text": "締め",
+        "norm": "締める",
+        "pos": "VERB",
+        "lemma": "締める"
+    },
+    {
+        "text": "着る",
+        "norm": "着る",
+        "pos": "VERB",
+        "lemma": "着る"
+    },
+    {
+        "text": "い",
+        "norm": "居る",
+        "pos": "VERB",
+        "lemma": "いる"
+    },
+    {
+        "text": "。",
+        "norm": "。",
+        "pos": "PUNCT",
+        "lemma": "。"
+    },
+    {
+        "text": "乾い",
+        "norm": "乾く",
+        "pos": "VERB",
+        "lemma": "乾く"
+    },
+    {
+        "text": "ドア",
+        "norm": "ドア",
+        "pos": "NOUN",
+        "lemma": "ドア"
+    },
+    {
+        "text": "自然",
+        "norm": "自然",
+        "pos": "ADJ",
+        "lemma": "自然"
+    },
+    {
+        "text": "せ",
+        "norm": "せる",
+        "pos": "AUX",
+        "lemma": "せる"
+    },
+    {
+        "text": "涙",
+        "norm": "涙",
+        "pos": "NOUN",
+        "lemma": "涙"
+    },
+    {
+        "text": "結び",
+        "norm": "結ぶ",
+        "pos": "VERB",
+        "lemma": "結ぶ"
+    },
+    {
+        "text": "水滴",
+        "norm": "水滴",
+        "pos": "NOUN",
+        "lemma": "水滴"
+    },
+    {
+        "text": "たった",
+        "norm": "唯",
+        "pos": "ADV",
+        "lemma": "たった"
+    },
+    {
+        "text": "包ん",
+        "norm": "包む",
+        "pos": "VERB",
+        "lemma": "包む"
+    },
+    {
+        "text": "人差し指",
+        "norm": "人差し指",
+        "pos": "NOUN",
+        "lemma": "人差し指"
+    },
+    {
+        "text": "見つめ",
+        "norm": "見詰める",
+        "pos": "VERB",
+        "lemma": "見つめる"
+    },
+    {
+        "text": "乗る",
+        "norm": "乗る",
+        "pos": "VERB",
+        "lemma": "乗る"
+    },
+    {
+        "text": "か",
+        "norm": "か",
+        "pos": "PART",
+        "lemma": "か"
+    },
+    {
+        "text": "こと",
+        "norm": "こと",
+        "pos": "NOUN",
+        "lemma": "こと"
+    },
+    {
+        "text": "眺め",
+        "norm": "眺める",
+        "pos": "VERB",
+        "lemma": "眺める"
+    },
+    {
+        "text": "今",
+        "norm": "今",
+        "pos": "NOUN",
+        "lemma": "今"
+    },
+    {
+        "text": "寂し",
+        "norm": "寂しい",
+        "pos": "ADJ",
+        "lemma": "寂しい"
+    },
+    {
+        "text": "失っ",
+        "norm": "失う",
+        "pos": "VERB",
+        "lemma": "失う"
+    },
+    {
+        "text": "だ",
+        "norm": "だ",
+        "pos": "AUX",
+        "lemma": "だ"
+    },
+    {
+        "text": "覚める",
+        "norm": "覚める",
+        "pos": "VERB",
+        "lemma": "覚める"
+    }
+]
