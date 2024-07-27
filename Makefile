@@ -2,7 +2,7 @@ init:
 	pip install -r requirements.txt
 
 venv:
-	python3.9 -m venv .venv3.9
+	python3.10 -m venv .venv
 
 venv-activate:
 	source venv/bin/activate
