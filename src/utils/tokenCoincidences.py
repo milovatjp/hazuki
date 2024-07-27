@@ -1,34 +1,34 @@
 import pandas as pd
 
 def match_tokens(input_dataframe, token_dataframes):
-    # Creamos una nueva columna en el dataframe de entrada que es la concatenación de 'lemma' y 'pos'
+    # Create a new column in the input dataframe which is the concatenation of 'lemma' and 'pos'
     input_dataframe['lemma_pos'] = input_dataframe['lemma'] + '_' + input_dataframe['pos']
-    # Convertimos los lemas del dataframe de entrada a un conjunto (eliminando duplicados)
+    # Convert dataframe lemmas into a set (to remove duplicates)
     input_lemmas_pos = set(input_dataframe['lemma_pos'].dropna())
     total_input_lemmas_pos = len(input_lemmas_pos)
 
     matching_results = {}
     total_matching_lemmas_pos = 0
 
-    # Iteramos sobre cada dataframe en token_dataframes
+    # Iterate through each toke_dataframes in the dataframe
     for file_name, df in token_dataframes.items():
-        # Creamos una nueva columna en el dataframe actual que es la concatenación de 'lemma' y 'pos'
+        # Create a new column in the current dataframe which is the concatenation of 'lemma' and 'pos'
         df['lemma_pos'] = df['lemma'] + '_' + df['pos']
-        # Convertimos los lemas del dataframe actual a un conjunto (eliminando duplicados)
+        # Convert current dataframe lemmas into a set (to remove duplicates)
         token_lemmas_pos = set(df['lemma_pos'].dropna())
-        # Encontramos la intersección de los dos conjuntos (lemas que están en ambos)
+        # Find the intersection of both sets (lemmas which are in both sets)
         matching_lemmas_pos = input_lemmas_pos & token_lemmas_pos
         num_matching_lemmas_pos = len(matching_lemmas_pos)
         total_matching_lemmas_pos += num_matching_lemmas_pos
-        # Calculamos el porcentaje de lemas coincidentes
+        # Calculate the percentage of lemma matching
         percentage_matching_lemmas_pos = (num_matching_lemmas_pos / total_input_lemmas_pos) * 100
         matching_results[file_name] = (num_matching_lemmas_pos, percentage_matching_lemmas_pos)
         print(f'{file_name}')
         print(f'\tTotal matching: {num_matching_lemmas_pos} - {percentage_matching_lemmas_pos:.2f}%')
-        # Eliminamos los lemas coincidentes de input_lemmas_pos para no contarlos más de una vez
+        # Remove matching lemmas from input_lemmas_pos to not count them multiple times
         input_lemmas_pos -= matching_lemmas_pos
 
-    # Calculamos el porcentaje total de lemas coincidentes
+    # Calculate the total percentage of matching lemmas
     total_percentage_matching = (total_matching_lemmas_pos / total_input_lemmas_pos) * 100
     print(f'Total matching: {total_matching_lemmas_pos} - {total_percentage_matching:.2f}%')
 

@@ -169,3 +169,6 @@ data/tokens/lvl2Tokens.json
 data/tokens/lvl3Tokens.json
 data/tokens/lvl4Tokens.json
 TODO.md
+notebooks/compare.ipynb
+notebooks/notebook.ipynb
+notebooks/salida.json
